@@ -5,6 +5,7 @@
 127.0.0.1 rg.ru www.rg.ru
 127.0.0.1 yandex.ru/games www.yandex.ru/games
 127.0.0.1 *.games.s3.yandex.net
+127.0.0.1 yandex.ru/games/app/*
 127.0.0.1 crazygames.com www.crazygames.com
 127.0.0.1 crazygames.ru www.crazygames.ru
 127.0.0.1 sse.games.yandex.ru
